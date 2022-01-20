@@ -3,7 +3,8 @@ Rencana Resolusi
 - lebih rajin
   * kerja tugas
     ^ TLJ
-    ^ PKK
+    ^ AIJ
   * belajar
-    ^ Pemrograman
+    ^ Jaringan
 - lebih giat
+- lebih baik
