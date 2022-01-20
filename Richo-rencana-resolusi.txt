@@ -2,6 +2,8 @@ Rencana Resolusi
 
 - lebih rajin
   * kerja tugas
+    ^ TLJ
+    ^ AIJ
   * belajar
     ^ Pemrograman
     ^ Jaringan
