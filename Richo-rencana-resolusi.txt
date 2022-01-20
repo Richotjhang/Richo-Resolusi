@@ -3,4 +3,7 @@ Rencana Resolusi
 - lebih rajin
   * kerja tugas
   * belajar
+    ^ Pemrograman
+    ^ Jaringan
 - lebih giat
+- lebih baik
