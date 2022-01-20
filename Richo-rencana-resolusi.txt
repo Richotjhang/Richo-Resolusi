@@ -5,7 +5,6 @@ Rencana Resolusi
     ^ TLJ
     ^ AIJ
   * belajar
-    ^ Pemrograman
     ^ Jaringan
 - lebih giat
 - lebih baik
